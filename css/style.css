@@ -1,0 +1,49 @@
+html{
+    background-color: rgb(156, 180, 201);
+}
+.one{
+    background-color: white;
+    width: 800px;
+    height: 700px;
+    margin-top:3em ;
+    margin-left:10em ;
+    margin-bottom:10em ;
+    margin-right: 10em;
+    border-radius: 5px;
+}
+.two{
+    display: flex;
+}
+.we{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+.you{
+    float: right;
+}
+span{
+    font-size: 35px;
+}
+.three{
+    display: flex;
+    padding: 15px;
+}
+.yours{
+    width: 350px;
+    height: 350px;
+    padding: 7px;
+    border-radius: 7px;
+}
+.theirs{
+    width: 350px;
+    height: 350px;
+    padding: 7px;
+    border-radius: 7px;
+}
+button{
+    font-size: 25px;
+    background-color: rgb(59, 98, 110);
+    color: white;
+    padding: 5px;
+}
